@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Caavchris
 - 👀 I’m interested in learn new technologies
-- 🌱 I’m currently learning RPA / ReactJS and React Native
+- 🌱 I’m currently learning RPA / Angular
 - 📫 How to reach me: instagram @caav_chris
 
 <!---
